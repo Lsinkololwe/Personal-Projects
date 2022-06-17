@@ -1,0 +1,14 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "learning typescript book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lazarous Sinkololwe",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-typescript": "^2.12.2"
+  }
+}
